@@ -26,9 +26,7 @@ As mentioned above, check out [`starter-code/app/scripts/fellowship.js`](starter
 
 Your solution should look a little something like this:
 
-<p style="text-align:center">
 <img src="https://i.imgur.com/3EvFXEt.png">
-</p>
 
 ## Additional Resources
 
