@@ -50,3 +50,8 @@ During the previous exercise, rate your progress on a scale of 1-5 (5 being the 
 - **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
 - **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
 - **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know? 
+
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
